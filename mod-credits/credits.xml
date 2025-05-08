@@ -1,0 +1,44 @@
+<!--
+FORMATTING:
+• (!line) - new line
+• (!bold/TEXT) - bold text
+• (!underline/TEXT) - underlined text
+• (!italic/text) - italic text
+• (!color/#HEX/TEXT) - colored text
+• (!emoji/EMOJI.png) - emoji
+• (!size/XXpx/TEXT) - text size
+• (!youtube/VIDEO_URL) - youtube video
+• (!button/#HEX/ICON.png/LINK/TEXT) - button
+• (!hr) - horizontal line
+-->
+
+<credits>
+  <page 
+  noImage="false"
+  image="mod-credits/02c_bones-hd.png"
+  title="The Necromancers"
+  text="(!size/25px/Director - BonBonnet) (!line)
+  (!size/15px/Composers - PichuZapper, Limezic) (!line)
+  (!size/15px/Designers - BonBonnet) (!line)
+  (!size/15px/Animators - PichuZapper) (!line)(!line)
+  (!size/25px/Special Thanks:) (!line)
+  (!size/15px/Charlles - Voice 1) (!line)
+  (!size/15px/Lexlim and Charlie - Voice 2) (!line)
+  (!size/15px/Joelnc02 - Made the first 2 sounds) (!line)
+  (!size/15px/Gontale - Bonus Animator)"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/01c_remmie-hd.png"
+  title="Special Thanks!"
+  text="Incredibox Modding Build created with passion by (!color/#64b1e8/(!bold/Rem))! Love creative mods and unique sounds? Support her work and explore more on her channel! (!line)(!line)(!hr)(!line) (!button/#8f1e22/social_youtube.png/https://www.youtube.com/@rin.Incredibox//Rem's Channel)"
+  />
+  <page 
+  noImage="false"
+  image="mod-credits/03c_sofarsogood-hd.png"
+  title="INCREDIBOX BY SO FAR SO GOOD!"
+  text="And of corse the official developers of Incredibox, (!bold/Allan), (!bold/Romain) and Incredible (!bold/Polo)! Without them, this project wouldn't exist! (!line)(!line)(!hr)(!line)Buy Official Incredibox for more fun and to support the team!(!line)(!line)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com//Incredibox Website)(!button/#4A4A4A/sfsg-credits-button.png/https://www.incredibox.com/info/store/Buy Incredibox)"
+  />
+</credits>
+
+<!--You can edit or change my credits, but please remember to credit me somewhere as well for using my build! Thank you! ✨-->
